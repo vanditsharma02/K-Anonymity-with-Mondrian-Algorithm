@@ -1,0 +1,75 @@
+************************** Social Computing Assignment 2 ********************************
+Name - Vandit Sharma
+Roll no. - 17EC10060
+*****************************************************************************************
+
+Information - 
+
+-> Python version used - 2.7
+-> Developed on Ubuntu (Virtual Environment has been used)
+
+Packages involved - 
+
+-> Pandas version 0.24.2
+-> Installing it through pip should install all other dependencies
+-> Below is list of dependencies
+
+	INSTALLED VERSIONS
+	------------------
+	commit: None
+	python: 2.7.15.final.0
+	python-bits: 64
+	OS: Linux
+	OS-release: 5.0.0-36-generic
+	machine: x86_64
+	processor: x86_64
+	byteorder: little
+	LC_ALL: None
+	LANG: en_IN
+	LOCALE: None.None
+
+	pandas: 0.24.2
+	pytest: None
+	pip: 19.3.1
+	setuptools: 41.6.0
+	Cython: None
+	numpy: 1.16.5
+	scipy: None
+	pyarrow: None
+	xarray: None
+	IPython: None
+	sphinx: None
+	patsy: None
+	dateutil: 2.8.1
+	pytz: 2019.3
+	blosc: None
+	bottleneck: None
+	tables: None
+	numexpr: None
+	feather: None
+	matplotlib: None
+	openpyxl: None
+	xlrd: None
+	xlwt: None
+	xlsxwriter: None
+	lxml.etree: None
+	bs4: None
+	html5lib: None
+	sqlalchemy: None
+	pymysql: None
+	psycopg2: None
+	jinja2: None
+	s3fs: None
+	fastparquet: None
+	pandas_gbq: None
+	pandas_datareader: None
+	gcsfs: None
+
+Instructions - 
+
+-> cd 17EC10060_A2(It is itself the venv folder)
+-> source bin/activate....(to activate venv)
+-> type "python main.py 10" in the terminal to get anonymized dataset for K=10
+-> should take around 3 minutes to run for K=10
+
+**Note - Median for categorical columns is calculated as suggested in the manual
