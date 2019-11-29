@@ -1,7 +1,4 @@
 ************************** Social Computing Assignment 2 ********************************
-Name - Vandit Sharma
-Roll no. - 17EC10060
-*****************************************************************************************
 
 Information - 
 
@@ -67,8 +64,7 @@ Packages involved -
 
 Instructions - 
 
--> cd 17EC10060_A2(It is itself the venv folder)
--> source bin/activate....(to activate venv)
+-> install Pandas
 -> type "python main.py 10" in the terminal to get anonymized dataset for K=10
 -> should take around 3 minutes to run for K=10
 
